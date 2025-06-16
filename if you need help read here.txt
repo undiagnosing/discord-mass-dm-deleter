@@ -1,0 +1,7 @@
+if you get this error
+[!] Failed to fetch messages: 404 - {"message": "Unknown Channel", "code": 10003}
+[+] Finished deleting own messages in channel 
+
+its because your trying to enter the users discord id go onto discord web browser open the dm channel and the correct channel id will be at the top of the page
+
+would look like this https://discord.com/channels/@me/[user_id]
